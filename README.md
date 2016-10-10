@@ -1,2 +1,11 @@
 # DLTKit
-Distributed Ledger Toolkit - beyond blockchain
+ Distributed ledger toolkit beyond block chain.
+
+ - core
+ - p2p
+ - consensus 
+ - transaction
+ - database
+ - crypto
+ - app
+ - example
