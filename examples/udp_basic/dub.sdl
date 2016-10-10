@@ -1,0 +1,4 @@
+name "udp-basic"
+description "Example using a single UDP connection from different tasks."
+dependency "dltkit" path="../../"
+targetPath "build"

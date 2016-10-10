@@ -1,0 +1,4 @@
+name "tcp-basic"
+description "Example using a single TCP connection from different tasks."
+dependency "dltkit" path="../../"
+targetPath "build"

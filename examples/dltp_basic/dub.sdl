@@ -1,0 +1,4 @@
+name "dltp-basic"
+description "Example using a DLTP(Distributed Ledger Transfer Protocol)."
+dependency "dltkit" path="../../"
+targetPath "build"
